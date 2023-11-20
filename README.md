@@ -1,2 +1,2 @@
-# Tuto Addons(B)
- Créer un addons
+# Chocobo-Survie-B
+Addons en beta officiel 

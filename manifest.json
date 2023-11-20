@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "§2Addon tuto§6§n By Obscube§r§l§7",
+		"name": "§a§n(B)Tuto §2Addon",
+		"uuid": "9c4da89c-4f07-444f-b3b7-f0d4582dfaf3",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 20, 20 ]
+	},
+	"modules": [
+		{
+		"type": "data",
+		"uuid": "23224bb0-3f61-416f-a1f5-456dac863ca6",
+			"version": [1, 0, 0 ]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "fe0222ab-b7e1-4760-a0d8-41a181373c04",
+			"version": [ 1, 0, 0 ]
+		}
+	]
+}
