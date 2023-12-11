@@ -4,7 +4,7 @@
 		"description": {
 			"identifier": "obscube_tuto:pomme_cuivre",
 			"category": "nature"
-		},
+		}, 
 		"components": {
 			"minecraft:icon": {
 				"texture": "pomme_cuivre"
