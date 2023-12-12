@@ -1,2 +1,2 @@
-# Chocobo-Survie-B
+# Obscube-tuto-B
 Addons en beta officiel 
