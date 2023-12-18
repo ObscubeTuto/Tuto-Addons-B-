@@ -2,12 +2,12 @@
 	"format_version": "1.16.100",
 	"minecraft:item": {
 		"description": {
-			"identifier": "obscube:pomme_vanandium",
+			"identifier": "obscube_tuto:pomme_cuivre",
 			"category": "nature"
 		}, 
 		"components": {
 			"minecraft:icon": {
-				"texture": "pomme_vanandium"
+				"texture": "pomme_cuivre"
 			},
 			"minecraft:creative_category": {
 				"parent": "itemGroup.name.crop"
