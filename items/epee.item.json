@@ -2,7 +2,7 @@
 	"format_version": "1.20.30",
 	"minecraft:item": {
 		"description": {
-			"identifier": "obscube:epee_vanandium",
+			"identifier": "obscube_tuto:epee",
 			"menu_category": {
 				"category": "equipment",
 				"group": "itemGroup.name.sword"
@@ -11,7 +11,7 @@
 		"components": {
 			"minecraft:max_stack_size": 1,
 			"minecraft:icon": {
-				"texture": "epee_vanandium"
+				"texture": "epee"
 			},
 			"minecraft:damage": 7,
 			"minecraft:can_destroy_in_creative": false,
