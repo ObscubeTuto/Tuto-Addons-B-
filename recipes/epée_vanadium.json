@@ -2,7 +2,7 @@
   "format_version": "1.20.10",
   "minecraft:recipe_shaped": {
     "description": {
-    "identifier": "obscube_tuto:mon_epee "
+    "identifier": "obscube:epee_vanadium "
     },
 
     
@@ -17,16 +17,16 @@
         "item": "minecraft:stick"
       },
       "X": {
-        "item": "minecraft:copper_ingot"
+        "item": "obscube:vanadium_lingot"
       }
     },
 	"unlock": [
       {
-        "item": "minecraft:copper_ingot"
+        "item": "obscube:vanadium_lingot"
       }
     ],
     "result": {
-      "item": "obscube_tuto:epee"
+      "item": "obscube:epee_vanandium"
     }
   }
 }
