@@ -2,7 +2,7 @@
   "format_version": "1.20.10",
   "minecraft:recipe_furnace": {
     "description": {
-    "identifier": "obscube:furnace_vanandium_ore"
+    "identifier": "obscube:furnace_vanadium_ore"
     },
 
     "unlock": [
